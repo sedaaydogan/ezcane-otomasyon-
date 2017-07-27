@@ -1,0 +1,14 @@
+/* Giriþ Yap*/
+#giris_yap{ padding:20px}
+#giris_yap table tr td input{margin:5px;padding:5px;width:220px; border:2px solid #ccc;border-radius:10px }
+#giris_yap table tr td input[type=text]:focus {border-color:#333 }
+#giris_yap table tr td button{margin-left:70px;margin-top:5px; padding:10px;background:#ccc;border:0 none;border-radius:5px;cursor:pointer}
+#giris_yap table tr td input[type=password]:focus {border-color:#333 }
+#giris_yap table tr th{font-size:15px}
+
+/* Sayfala*/
+ul,li{ padding:0;margin;list-style:none}
+.sayfala li select{width:220px;padding:3px;border:1px solid #ddd}
+.sayfala li button{background:#f1f1f1;cursor:pointer;font-size:12px;padding:3px;border:1px solid #ddd}
+.sayfala  li {float:left;margin-right:10px}
+.sayfala{ padding:15px 15px 0 15px}

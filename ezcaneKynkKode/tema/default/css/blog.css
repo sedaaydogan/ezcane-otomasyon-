@@ -1,0 +1,16 @@
+/* giriş yap*/
+
+#giris h2{font-size:18px; padding-bottom:10px;margin-bottom:10px;padding-top:6px;border-bottom:3px dashed #ddd}
+#giris ul li {padding: 3px 0}
+#giris ul li input{ width:220px; padding: 5px; border:1px solid #ddd;border-radius:3px}
+#giris ul li select{ width:220px; padding: 5px; border:1px solid #ddd;border-radius:3px}
+#giris ul li textarea{ width:500px; height:100px; font:12px 21px arial; overflow:auto; resize:none; padding: 5px; border:1px solid #ddd;border-radius:3px}
+#giris ul li input[type=text]:focus {border-color:#333 }
+#giris ul li input[type=password]:focus {border-color:#333 }
+#giris ul li button{ background:#333; color:#fff;padding :5px 7px;cursor:pointer; border-radius:3px;}
+
+/*HATA*/
+.hata{background:lightyellow;padding:7px;border-radius:3px}
+
+.konuEtiketler { background: #f1f1f1; padding: 7px; font-size: 12px; margin-top: 7px  }
+.konuEtiketler a:hover {text-decoration: underline}
